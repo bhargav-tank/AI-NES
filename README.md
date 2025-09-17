@@ -338,6 +338,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📚 References
 
 - [AI-Indexing](https://github.com/NeaByteLab/AI-Indexing) - Example implementation for repo maps and semantic search
+- [Core Concept](./prompt/CONCEPT.md) - Fundamental principles and philosophical foundation of NES
 - [Prompt Optimization](./prompt/README.md) - Technical details on token efficiency and pattern learning optimization
 - [Prompting Structure](./prompt/STRUCTURE.md) - Complete guide to LLMs, prompts, roles, and tool calling
 - [Unified Diff Format](https://en.wikipedia.org/wiki/Diff#Unified_format) - Standard diff format reference

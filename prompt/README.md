@@ -255,5 +255,6 @@ The implementation leverages several key components:
 ## 📚 References
 
 - [AI-Indexing](https://github.com/NeaByteLab/AI-Indexing) - Example implementation for repo maps and semantic search
+- [Core Concept](./prompt/CONCEPT.md) - Fundamental principles and philosophical foundation of NES
 - [Prompting Structure](./STRUCTURE.md) - Complete guide to LLMs, prompts, roles, and tool calling
 - [Unified Diff Format](https://en.wikipedia.org/wiki/Diff#Unified_format) - Standard diff format reference
