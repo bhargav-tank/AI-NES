@@ -249,3 +249,11 @@ The implementation leverages several key components:
 - Processes suggestions as they're generated
 - Implements abort mechanisms for off-target responses
 - Provides immediate feedback loops for learning
+
+---
+
+## 📚 References
+
+- [AI-Indexing](https://github.com/NeaByteLab/AI-Indexing) - Example implementation for repo maps and semantic search
+- [Prompting Structure](./STRUCTURE.md) - Complete guide to LLMs, prompts, roles, and tool calling
+- [Unified Diff Format](https://en.wikipedia.org/wiki/Diff#Unified_format) - Standard diff format reference
